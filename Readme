@@ -1,0 +1,9 @@
+############
+# Created directory stucture using N. Gotelli upscaler package by running the following in terminal:
+ 
+# Libraries ----
+library(upscaler) # [Nick Gotelli's project organization package](https://gotellilab.github.io/Bio381/)
+
+# Data import with metadata ----
+## Soil sensor data ----
+metadata_template(file="OriginalData/Metadata_template.csv")
