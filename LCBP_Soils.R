@@ -6,6 +6,9 @@
 # Directory ----
 setwd(dir = "OneDrive/git-repos/LCBP_Soils/")
 
+# Libraries ----
+library(upscaler) # [Nick Gotelli's project organization package](https://gotellilab.github.io/Bio381/)
+
 # Source functions ----
 source_batch("Functions")
 

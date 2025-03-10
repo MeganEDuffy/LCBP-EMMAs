@@ -1,0 +1,12 @@
+logfile: logfile.txt
+#######################
+R version: R version 4.2.0 (2022-04-22)
+platform: x86_64-conda-linux-gnu (64-bit)
+running: Pop!_OS 22.04 LTS
+#----------------------
+random number seed: 252654173
+timestamp: Wed Feb 26 16:06:12 2025
+#----------------------
+libraries loaded:
+dplyr ggplot2 gridExtra knitr lubridate pacman patchwork readxl tidyr upscaler
+#######################
