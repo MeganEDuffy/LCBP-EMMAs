@@ -1,0 +1,4 @@
+site,eventid,rain_start,event_start,event_end,event_type
+Hungerford,1,NA,2023-02-09 00:00:00,2023-02-18 23:00:00,ROS
+Hungerford,2,NA,2023-03-21 01:00:00,2023-03-26 23:00:00,thermal
+Hungerford,3,NA,2023-03-31 01:00:00,2023-04-12 01:00:00,freshet
