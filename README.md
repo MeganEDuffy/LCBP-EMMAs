@@ -1,9 +1,9 @@
 # LCBP-EMMAs
 ### End-member mixing analysis reveals divergent patterns of soil-stream connectivity during mid-winter runoff events between two catchments in the northeastern USA 
 
-#### Megan E. Duffy1, Andrew W. Schroth2, Stephen D. Sebestyen3, James B. Shanley4, Meghan Taylor5, Sonya Vogel2,6 and E. Carol Adair1  
+#### Megan E. Duffy<sup>1</sup>, Andrew W. Schroth<sup>2</sup>, Stephen D. Sebestyen<sup>3</sup>, James B. Shanley<sup>4</sup>, Meghan Taylor<sup>5</sup>, Sonya Vogel<sup>2,</sup><sup>6</sup> and E. Carol Adair<sup>1</sup>  
 
-1Rubenstein School of Environment and Natural Resources, University of Vermont, Burlington, VT, USA. 2Department of Geography and Geosciences, University of Vermont, Burlington, VT, USA.  3Northern Research Station, USDA Forest Service, Grand Rapids, MN, USA. 4U.S. Geological Survey, Montpelier, Vermont, USA. 5University of Massachusetts, Amherst, MA, USA.  6Lake Champlain Basin Program, Grand Isle, VT, USA.   
+<sup>1</sup>Rubenstein School of Environment and Natural Resources, University of Vermont, Burlington, VT, USA. <sup>2</sup>Department of Geography and Geosciences, University of Vermont, Burlington, VT, USA.  <sup>3</sup>Northern Research Station, USDA Forest Service, Grand Rapids, MN, USA. <sup>4</sup>U.S. Geological Survey, Montpelier, Vermont, USA. <sup>5</sup>University of Massachusetts, Amherst, MA, USA.  <sup>6</sup>Lake Champlain Basin Program, Grand Isle, VT, USA.   
 
 #### Corresponding author: Megan E. Duffy (megan.duffy@uvm.edu)  
 
